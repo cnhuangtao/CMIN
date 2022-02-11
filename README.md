@@ -3,7 +3,7 @@
 #### Data Preparation
 ----
 
-Download the public dataset [Amazon](https://nijianmo.github.io/amazon/index.html) to *./rew_data/*.
+Download the public dataset [Amazon](https://nijianmo.github.io/amazon/index.html) to *./raw_data/*.
 
 > python data_prepare.py
 
